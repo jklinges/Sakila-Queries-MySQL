@@ -9,6 +9,7 @@ o	ALTER
 o	DROP
 o	CREATE VIEW
 o	DROP VIEW
+
 •	Data Manipulation Language Statements:
 o	SELECT
 o	APPEND
